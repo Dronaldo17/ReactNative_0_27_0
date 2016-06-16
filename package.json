@@ -1,0 +1,28 @@
+{
+  "name": "wepiao-reactnaitve-lib-27",
+  "version": "1.0.0",
+  "description": "微票儿React Native基于0.27.0的封装库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dronaldo17/ReactNativeLib.git"
+  },
+  "keywords": [
+    "wepiao",
+    "reactnative"
+  ],
+  "dependencies": {
+    "react-native": "0.27.0",
+    "react": ""
+  },
+  "devDependencies": {},
+  "author": "DRonaldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dronaldo17/ReactNativeLib/issues"
+  },
+  "homepage": "https://github.com/Dronaldo17/ReactNativeLib#readme"
+}
