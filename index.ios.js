@@ -17,14 +17,14 @@ class HelloWorld extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          欢迎使用微票儿定制版React Native框架!
+          欢迎使用React Native框架!
         </Text>
         <Text style={styles.instructions}>
            本版本基于React Native的0.27.0 版本
         </Text>
         <Text style={styles.instructions}>
           Press Cmd+R to reload,{'\n'}
-          Cmd+D or shake 开启调试菜单
+          Cmd+D or 摇一摇 开启调试菜单
         </Text>
       </View>
     );
