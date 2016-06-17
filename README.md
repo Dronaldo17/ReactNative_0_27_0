@@ -6,7 +6,7 @@
  请认真阅读以下操作步骤，如有错误，概不负责~
 
  1.在Podfile 代码里中添加
- ` pod "ReactNativeLib", :git => 'git@code.wepiao.com:doujingxuan/ReactNativeFramework.git', :branch => '0.27.0'`
+ ` pod "ReactNativeLib", :git => 'git@github.com:Dronaldo17/ReactNative_0_27_0.git', :branch => '0.27.0'`
  
  2.`cd` 到 `Pods/ReactNativeLib` 目录下 将`build.sh` 添加可执行权限 `chomd +x build.sh`
  
